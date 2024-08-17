@@ -58,3 +58,46 @@ All the videos posted in Youtube are copyrighted. You cannot re-distribute video
 [Instagram](https://instagram.com/TechPrimers)
 [Reddit](https://reddit.com/r/TechPrimers)
 [Mail Us](mailto:info@techprimers.com)
+
+### Practice/Courses:
+1. Codemia - https://codemia.io/system-design
+2. InterviewReady.io
+3. ByteByteGo - System Design Interview
+
+| ----- | ------ |
+| Topic | Status |  
+| ----- | ------ |
+|  00 - ByteByteGo - Ace Your Next System Design Interview  |  |  
+|  01 - Join the Community  |  |  
+|  02 - Scale From Zero To Millions Of Users  |  |  
+|  02 Scale From Zero To Millions Of Users.docx
+|  03 - Back-of-the-envelope Estimation  |  |  
+|  04 - A Framework For System Design Interviews  |  |  
+|  05 - Design A Rate Limiter-2  |  |  
+|  05 - Design A Rate Limiter  |  |  
+|  06 - Design Consistent Hashing  |  |  
+|  07 - Design A Key-Value Store  |  |  
+|  08 - Design A Unique ID Generator in Distributed Systems  |  |  
+|  09 - Desing A URL Shortener  |  |  
+|  10 - Design a Web Crawler  |  |  
+|  11 - Design A Notification System  |  |  
+|  12 - Design A News Feed System  |  |  
+|  13 - Design a Chat System  |  |  
+|  14 - Design A Search Autocomplete System  |  |  
+|  15 - Design Youtube  |  |  
+|  16 - Design Google Drive  |  |  
+|  17 - Proximity Service  |  |  
+|  18 - Nearby Friends  |  |  
+|  19 - Google Maps  |  |  
+|  20 - Distributed Message Queue  |  |  
+|  21 - Metrics Monitoring and Alerting System  |  |  
+|  22 - Ad Click Event Aggregation  |  |  
+|  23 - Hotel Reservation System  |  |  
+|  24 - Distributed Email Service  |  |  
+|  25 - S3-like Object Storage  |  |  
+|  26 - Real-time Gaming Leaderboard  |  |  
+|  27- Payment System  |  |  
+|  28 - Digital Wallet  |  |  
+|  29 - Stock Exchange  |  |  
+|  30-  The Learning Continues  |  |  
+| ----------------------------- | -- |
