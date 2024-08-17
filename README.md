@@ -64,7 +64,7 @@ All the videos posted in Youtube are copyrighted. You cannot re-distribute video
 2. InterviewReady.io
 3. ByteByteGo - System Design Interview
 
-| ----- | ------ |
+
 | Topic | Status |  
 | ----- | ------ |
 |  00 - ByteByteGo - Ace Your Next System Design Interview  |  |  
@@ -100,4 +100,4 @@ All the videos posted in Youtube are copyrighted. You cannot re-distribute video
 |  28 - Digital Wallet  |  |  
 |  29 - Stock Exchange  |  |  
 |  30-  The Learning Continues  |  |  
-| ----------------------------- | -- |
+
